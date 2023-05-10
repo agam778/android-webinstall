@@ -2,26 +2,16 @@
     "latest": {
         "alioth": [
             {
-                "version": "temporary",
-                "variant": "vanilla",
-                "url": "temporary"
-            },
-            {
-                "version": "temporary",
+                "version": "13.0.20230510",
                 "variant": "gapps",
-                "url": "temporary"
+                "url": "https://agamsbuilds.vercel.app/api/raw/?path=/YAAP-alioth/20230510/YAAP-13-HOMEMADE-alioth-20230510-img.zip"
             }
         ],
         "aliothin": [
             {
-                "version": "temporary",
-                "variant": "vanilla",
-                "url": "temporary"
-            },
-            {
-                "version": "temporary",
+                "version": "13.0.20230510",
                 "variant": "gapps",
-                "url": "temporary"
+                "url": "https://agamsbuilds.vercel.app/api/raw/?path=/YAAP-alioth/20230510/YAAP-13-HOMEMADE-alioth-20230510-img.zip"
             }
         ]
     }
