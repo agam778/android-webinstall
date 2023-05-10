@@ -3,8 +3,12 @@ export default {
     ACCENT_COLOR: "#81007f",
     SUPPORTED_DEVICES: [
         {
-            name: "Poco F3/Mi 11X/Redmi K40",
+            name: "Poco F3/Redmi K40",
             model: "alioth",
+        },
+        {
+            name: "Mi 11X",
+            model: "aliothin",
         },
     ],
     RELEASE_VARIANTS: {
