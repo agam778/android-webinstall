@@ -11,6 +11,18 @@
                 "variant": "gapps",
                 "url": "temporary"
             }
+        ],
+        "aliothin": [
+            {
+                "version": "temporary",
+                "variant": "vanilla",
+                "url": "temporary"
+            },
+            {
+                "version": "temporary",
+                "variant": "gapps",
+                "url": "temporary"
+            }
         ]
     }
 }
